@@ -1,0 +1,7 @@
+path: \\?\D:\Signal Sprint\dataset\images\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: dustbin
